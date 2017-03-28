@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="good9talk"
+  id="myeclipse.1490689956830"
+  context-root="/good9talk"
+  j2ee-spec="6.0"
+  archive="good9talk.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
